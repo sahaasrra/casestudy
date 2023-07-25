@@ -1,0 +1,88 @@
+#output
+{
+    background-color:azure;
+    height: 35px;
+    border-radius: 20px;
+    color: black;
+}
+
+#clutch
+{
+    background-color: grey;
+    border-radius: 40px;
+    margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: 130px;
+   width: 1000px;
+   box-shadow: 8px 8px 8px gray;
+}
+#img_clutch
+{
+    margin-bottom: 20px;
+    width: 270px;
+}
+
+#dream
+{
+    background-color: grey;
+    border-radius: 40px;
+    margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: 130px;
+   width: 1000px;
+   box-shadow: 8px 8px 8px gray;
+}
+#img_clutch
+{
+    margin-bottom: 20px;
+    width: 270px;
+}
+#marker
+{
+    background-color: grey;
+    border-radius: 40px;
+    margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: 130px;
+   width: 1000px;
+   box-shadow: 8px 8px 8px gray;
+}
+#img_clutch
+{
+    margin-bottom: 20px;
+    width: 270px;
+}
+#water
+{
+    background-color: grey;
+    border-radius: 40px;
+    margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: 130px;
+   width: 1000px;
+   box-shadow: 8px 8px 8px gray;
+}
+#img_clutch
+{
+    margin-bottom: 20px;
+    width: 270px;
+}
+#sanitizer
+{
+    background-color: grey;
+    border-radius: 40px;
+    margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: 130px;
+   width: 1000px;
+   box-shadow: 8px 8px 8px gray;
+}
+#img_clutch
+{
+    margin-bottom: 20px;
+    width: 270px;
+}
+.mini_result
+{
+    color: aliceblue;
+}
